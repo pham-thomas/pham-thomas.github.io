@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### About
 
-### More Information
+I'm a research associate with the University of California Santa Cruz and the National Oceanic and Atmospheric Administration. 
 
-A place to include any other types of information that you'd like to include about yourself.
+I work with a group that researches survival and movement patterns of acoustically tagged Chinook salmon and steelhead in the California Central Valley.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[thtupham@gmail.com.com](mailto:thtupham@gmail.com)
